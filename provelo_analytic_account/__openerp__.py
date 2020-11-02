@@ -35,6 +35,7 @@
         "views/provelo_project.xml",
         "views/resource_location.xml",
         "views/account_invoice.xml",
+        "views/account_payment.xml",
         "views/resource_activity_type.xml",
         "views/actions.xml",
         "views/menus.xml",
